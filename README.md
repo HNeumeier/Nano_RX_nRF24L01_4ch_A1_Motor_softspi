@@ -10,4 +10,6 @@ also the Module L298 2x Modules for the left and right Motors each Module parral
 
 The RF24 library is copied from the Original to My_RF24 that i can define the soft_SPI Parameter without to change the Original library.
 
+This code is used wit a Taranis X7 the mix of the Motors are done in the Transmitter
+
 ![Tank](https://user-images.githubusercontent.com/33512064/217525413-fd9777ff-e5b9-4376-b860-d7552625eb4c.jpg)
